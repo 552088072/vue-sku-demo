@@ -25,6 +25,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 具体文档详见以下 
-知乎用户：[知乎：前端sku实现](https://zhuanlan.zhihu.com/p/338738268)
-掘金： [掘金：前端sku实现](https://juejin.cn/post/6908978905881935879)
-CSDN： [CSDN：前端sku实现](https://blog.csdn.net/jyf552088072/article/details/111561834)
+  知乎用户：[知乎：前端sku实现](https://zhuanlan.zhihu.com/p/338738268)     
+  掘金： [掘金：前端sku实现](https://juejin.cn/post/6908978905881935879)    
+  CSDN： [CSDN：前端sku实现](https://blog.csdn.net/jyf552088072/article/details/111561834)    
