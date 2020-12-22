@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h3>前端SKU实现</h3>
     <div v-for="(item,index) in specList" :key="index">
       <div class='title'>{{item.title}}</div>
       <div class='spec'>
@@ -43,6 +44,7 @@ export default {
         })
       }
     })
+    console.log(JSON.stringify(this.selectSpec))
     // 注释的调试看逻辑代码
     // this.selectSpec = {
     //   '颜色':'',
